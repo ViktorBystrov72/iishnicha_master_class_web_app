@@ -29,6 +29,15 @@ GPT-5.1-Sol-xhigh https://alenkiy-tsvetochek.layero.app/ на основе https
 ### Сервис где размещаем сайты  
 https://docs.layero.ru/billing/plans/  
   
+### Сервис где размещаем сайты  
+https://docs.layero.ru/billing/plans/  
+  
+### Yandex AI Studio для доступа к модели  
+https://aistudio.yandex.ru/platform/folders/b1gqokc5uhd6jmqm8l4o/models  
+  
+### Агент Kilo  
+https://kilo.ai/  
+  
 ## Проект
 
 Название, что умеет сайт и где лежат данные. Этот абзац заменяется описанием конкретной темы.
