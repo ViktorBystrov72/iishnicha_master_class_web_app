@@ -9,8 +9,26 @@
 Раздел «Проект» ниже агент заполняет сам, когда тема и дизайн уже выбраны.  
 
 Node.js, пакеты сайта и публикацию на Layero агент ставит и запускает сам, как написано в [AGENTS.md](AGENTS.md).   
-Он определяет, Windows это, macOS или Linux, и ставит нужное способом этой системы. Отдельно выполнять `npm install` не нужно.
-
+Он определяет, Windows это, macOS или Linux, и ставит нужное способом этой системы. Отдельно выполнять `npm install` не нужно.  
+  
+### Презентация 
+https://docs.google.com/presentation/d/1-bypVJ6LrZHTvVLUgC3lQljTk2936GKQs0NjXWYhpTQ  
+   
+### GitHub шаблон (текущий репозиторий)
+https://github.com/ViktorBystrov72/iishnicha_master_class_web_app   
+  
+### GitHub рабочий пример магазина цветов  
+https://github.com/ViktorBystrov72/master_class_flower_shop
+  
+### Примеры созданных сайтов    
+#### Булочная  
+GPT-6-Astra-max https://bakery-layero.layero.app/ на основе https://pophamsbakery.com/  
+#### Магазин цветов  
+GPT-5.1-Sol-xhigh https://alenkiy-tsvetochek.layero.app/ на основе https://www.bloomandwild.com/    
+  
+### Сервис где размещаем сайты  
+https://docs.layero.ru/billing/plans/  
+  
 ## Проект
 
 Название, что умеет сайт и где лежат данные. Этот абзац заменяется описанием конкретной темы.
@@ -80,4 +98,3 @@ https://docs.layero.ru/billing/plans
 Обновление страницы не сбрасывает данные работающего процесса;  
 перезапуск, холодный старт и новая публикация сбрасывают заявки и правки каталога.   
 Корзина сохраняется в браузере.
-    
