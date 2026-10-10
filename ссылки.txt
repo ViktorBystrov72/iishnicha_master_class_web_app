@@ -25,3 +25,10 @@ https://aistudio.yandex.ru/platform/folders/b1gqokc5uhd6jmqm8l4o/models
 
 ### Агент Kilo
 https://kilo.ai/
+
+### Настройки для агента чтобы работал с моделями Яндекс студии
+Provider - yandex
+API Format - OpenAI Compatible
+https://ai.api.cloud.yandex.net/v1
+API key который создается вверху справа кнопкой в Яндекс студии
+ссылка на модель gpt://b1gqokc5uhd6jmqm8l4o/deepseek-v4.1-flash/latest и включить reasoning
